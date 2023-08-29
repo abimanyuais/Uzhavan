@@ -1,0 +1,43 @@
+.description
+{
+    
+    float: left;
+}
+.title
+{
+    
+    font-weight: 700;
+}
+.Price
+{
+    display: inline;
+    float: left;
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.Quantity
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.cart
+{
+    display:flex;
+    float: right;
+    margin-top: 10px;
+}
+.cart-icon
+{
+    font-weight: 500;
+    float: right;
+    display: inline;
+    width: 50px;
+}
+.card-items
+{
+    
+    margin: 25px;
+    padding: 10px;
+}

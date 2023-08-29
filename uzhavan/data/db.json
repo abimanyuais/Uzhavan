@@ -1,0 +1,277 @@
+{
+  "listOfProducts": [
+    {
+      "productID": 1,
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDescription": "Apple",
+      "productQuantity": 0,
+      "productPrice": 200,
+      "productImage": "./images/Apple.jpg"
+    },
+    {
+      "productID": 2,
+      "productName": "Banana",
+      "productCategory": "Fruits",
+      "productDescription": "Banana",
+      "productQuantity": 0,
+      "productPrice": 40,
+      "productImage": "./images/banana.jpg"
+    },
+    {
+      "productID": 3,
+      "productName": "Blue Berry",
+      "productCategory": "Fruits",
+      "productDescription": "BlueBerry",
+      "productQuantity": 0,
+      "productPrice": 200,
+      "productImage": "./images/blueBerry.jpg"
+    },
+    {
+      "productID": 4,
+      "productName": "Cherry",
+      "productDescription": "Cherry",
+      "productCategory": "Fruits",
+      "productQuantity": 0,
+      "productPrice": 110,
+      "productImage": "./images/cherry.jpg"
+    },
+    {
+      "productID": 5,
+      "productName": "Grapes",
+      "productDescription": "Grapes",
+      "productCategory": "Fruits",
+      "productQuantity": 0,
+      "productPrice": 120,
+      "productImage": "./images/grapes.jpg"
+    },
+    {
+      "productID": 6,
+      "productName": "Orange",
+      "productDescription": "Orange",
+      "productCategory": "Fruits",
+      "productQuantity": 0,
+      "productPrice": 150,
+      "productImage": "./images/orange.jpg"
+    },
+    {
+      "productID": 7,
+      "productName": "Pineapple",
+      "productDescription": "Pineapple",
+      "productCategory": "Fruits",
+      "productQuantity": 0,
+      "productPrice": 50,
+      "productImage": "./images/pineapple.jpg"
+    },
+    {
+      "productID": 8,
+      "productName": "Respberry",
+      "productDescription": "Respberry",
+      "productCategory": "Fruits",
+      "productQuantity": 0,
+      "productPrice": 200,
+      "productImage": "./images/smallApple.jpg"
+    },
+    {
+      "productID": 9,
+      "productName": "Beet Root",
+      "productCategory": "Vegitable",
+      "productDescription": "Beet Root",
+      "productQuantity": 0,
+      "productPrice": 50,
+      "productImage": "./images/beetroot.jpg"
+    },
+    {
+      "productID": 10,
+      "productName": "Big Onion",
+      "productCategory": "Vegitable",
+      "productDescription": "Big Onion",
+      "productQuantity": 0,
+      "productPrice": 100,
+      "productImage": "./images/bigOnion.jpg"
+    },
+    {
+      "productID": 11,
+      "productName": "Cabbage",
+      "productCategory": "Vegitable",
+      "productDescription": "Cabbage",
+      "productQuantity": 0,
+      "productPrice": 200,
+      "productImage": "./images/cabbage.jpg"
+    },
+    {
+      "productID": 12,
+      "productName": "Carrot",
+      "productDescription": "Carrot",
+      "productCategory": "Vegitable",
+      "productQuantity": 0,
+      "productPrice": 200,
+      "productImage": "./images/carrot.jpg"
+    },
+    {
+      "productID": 13,
+      "productName": "Garlic",
+      "productDescription": "Garlic",
+      "productCategory": "Vegitable",
+      "productQuantity": 0,
+      "productPrice": 120,
+      "productImage": "./images/garlic.jpg"
+    },
+    {
+      "productID": 14,
+      "productName": "Potato",
+      "productDescription": "Potato",
+      "productCategory": "Vegitable",
+      "productQuantity": 0,
+      "productPrice": 70,
+      "productImage": "./images/potato.jpg"
+    },
+    {
+      "productID": 15,
+      "productName": "Pumpkin",
+      "productDescription": "pumpkin",
+      "productCategory": "Vegitable",
+      "productQuantity": 0,
+      "productPrice": 50,
+      "productImage": "./images/pumpkin.jpg"
+    },
+    {
+      "productID": 16,
+      "productName": "Tomato",
+      "productDescription": "Tomato",
+      "productCategory": "Vegitable",
+      "productQuantity": 0,
+      "productPrice": 250,
+      "productImage": "./images/tomato.jpg"
+    }
+  ],
+  "PriceListOfProducts": [
+    {
+      "id": 1,
+      "productID": 1,
+      "productQuantity": 10
+    },
+    {
+      "id": 2,
+      "productID": 2,
+      "productQuantity": 10
+    },
+    {
+      "id": 3,
+      "productID": 3,
+      "productQuantity": 10
+    },
+    {
+      "id": 4,
+      "productID": 4,
+      "productQuantity": 7
+    },
+    {
+      "id": 5,
+      "productID": 5,
+      "productQuantity": 10
+    },
+    {
+      "id": 6,
+      "productID": 6,
+      "productQuantity": 8
+    },
+    {
+      "id": 7,
+      "productID": 7,
+      "productQuantity": 10
+    },
+    {
+      "id": 8,
+      "productID": 8,
+      "productQuantity": 10
+    },
+    {
+      "id": 9,
+      "productID": 9,
+      "productQuantity": 6
+    },
+    {
+      "id": 10,
+      "productID": 10,
+      "productQuantity": 8
+    },
+    {
+      "id": 11,
+      "productID": 11,
+      "productQuantity": 10
+    },
+    {
+      "id": 12,
+      "productID": 12,
+      "productQuantity": 10
+    },
+    {
+      "id": 13,
+      "productID": 13,
+      "productQuantity": 10
+    },
+    {
+      "id": 14,
+      "productID": 14,
+      "productQuantity": 10
+    },
+    {
+      "id": 15,
+      "productID": 15,
+      "productQuantity": 7
+    },
+    {
+      "id": 16,
+      "productID": 16,
+      "productQuantity": 10
+    }
+  ],
+  "UserOrderDetails": [
+    {
+      "productID": 1,
+      "productQuantity": 1,
+      "id": 1
+    },
+    {
+      "productID": 2,
+      "productQuantity": 0,
+      "id": 2
+    },
+    {
+      "productID": 3,
+      "productQuantity": 0,
+      "id": 3
+    },
+    {
+      "productID": 4,
+      "productQuantity": 3,
+      "id": 4
+    },
+    {
+      "productID": 11,
+      "productQuantity": 0,
+      "id": 11
+    },
+    {
+      "productID": 10,
+      "productQuantity": 2,
+      "id": 10
+    },
+    {
+      "productID": 9,
+      "productQuantity": 4,
+      "id": 9
+    },
+    {
+      "productID": 15,
+      "productQuantity": 3,
+      "id": 15
+    },
+    {
+      "productID": 6,
+      "productQuantity": 2,
+      "id": 6
+    }
+  ]
+}

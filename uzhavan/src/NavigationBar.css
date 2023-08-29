@@ -1,0 +1,45 @@
+.nav-items
+{
+    font-weight: 500;
+    font-size: 20px;
+    gap:15px;
+    text-align: center;
+}
+.navbar
+{
+
+    font-family: 'ADLaM Display', cursive;
+    font-family: 'Nerko One', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tilt Prism', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+    
+}
+
+#fruits:hover,#vegitables:hover
+{
+    background-color: rgba(245,71,72,255); 
+    color: white !important;
+}
+#fruits, #vegitables
+{
+    border-radius: 20px;  
+}
+.log-In
+{
+    border-radius: 20px;
+    letter-spacing: normal;
+}
+.delivery-time
+{
+    letter-spacing: normal;
+    font-size: 17px;
+}
+.delivery-time{
+    display: flex;
+    flex-direction: column;
+}
+

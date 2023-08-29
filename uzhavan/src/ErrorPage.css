@@ -1,0 +1,24 @@
+.error-fullBody
+{
+    background-color: rgba(245,71,72,255);
+    height: 500px;
+    margin-top: 50px;
+}
+.error-body
+{
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+}
+.error-title
+{
+    
+    font-size: 90px;
+    letter-spacing: 4px;
+}
+.home-button
+{
+    text-decoration: none;
+    border-radius: 10px;
+    
+}
